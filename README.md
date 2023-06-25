@@ -1,4 +1,4 @@
-# Lampada_HTML-CSS-JS
+# Lâmpada_HTML-CSS-JS
 ## Descrição de Funcionamento
 - Simples projeto de uma Lâmpada que encontra-se desligada
 - Ao apertar no botão "Ligar", a imagem muda para uma com a lâmpada acesa
